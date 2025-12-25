@@ -31,7 +31,7 @@
 
 ---
 
-## ## 🎯 The Mission
+## 🎯 The Mission
 
 We make ATAK deployments **operational, not experimental**. That means controlled identity, predictable data flows, clear boundaries between partners, and documentation that remains usable during handovers. We treat every setup as a system that must be operated, maintained, and audited.
 
